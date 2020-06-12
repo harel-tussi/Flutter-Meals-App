@@ -83,7 +83,7 @@ class _MyAppState extends State<MyApp> {
       },
       theme: ThemeData(
         primarySwatch: Colors.blue,
-        accentColor: Colors.white,
+        accentColor: Colors.amberAccent,
         canvasColor: Colors.white,
         fontFamily: 'Raleway',
         textTheme: ThemeData.light().textTheme.copyWith(
